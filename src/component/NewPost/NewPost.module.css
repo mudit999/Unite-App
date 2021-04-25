@@ -1,0 +1,16 @@
+.NewPost {
+  padding: 10px;
+  border-bottom: 1px solid grey;
+}
+
+.Write_NewPost_Section {
+  display: flex;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.img {
+  border-radius: 50%;
+  width: 60px;
+  padding: 4px;
+}
